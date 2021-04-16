@@ -10,10 +10,10 @@ image:
 
 service:
   name: go-app
-  #type: ClusterIP
+  type: ClusterIP
   namePort: go-app-port
-  internalPort: 3000
-  externalPort: 3000
+  internalPort: 3500
+  externalPort: 3500
 
 resources:
   limits:
