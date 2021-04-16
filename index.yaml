@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   go-k8s:
   - apiVersion: v1
+    created: "2021-04-16T10:43:26.0532476Z"
+    description: A Helm chart for Kubernetes
+    digest: 0ade3c28ed259dd3443847d83e634ada32270815272b058e594ad4969b58a942
+    name: go-k8s
+    urls:
+    - https://github.com/gsardone/gitops-charts/releases/download/go-k8s-0.1.4/go-k8s-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
     created: "2021-04-16T10:37:38.7360744Z"
     description: A Helm chart for Kubernetes
     digest: aacfcb5149d10b4e5688fd679e9b2544e61f0d20a0b7bf8b942028946565c112

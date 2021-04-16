@@ -12,7 +12,7 @@ service:
   name: go-app
   type: ClusterIP
   namePort: go-app-port
-  internalPort: 3500
+  internalPort: 3000
   externalPort: 3500
 
 resources:
